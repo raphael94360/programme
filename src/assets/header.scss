@@ -1,0 +1,23 @@
+.header {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  
+  div {
+    display: flex;
+    align-items: center;
+    
+    h2 {
+      font-size: 1rem;
+      font-weight: 700;
+      margin-left: -10px;
+    }
+    
+    img {
+      object-fit: cover;
+      width: 90px;
+    }
+
+  }
+
+}
